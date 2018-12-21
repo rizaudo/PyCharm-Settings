@@ -1,3 +1,5 @@
 <code_scheme name="Default">
-  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+  </Python>
 </code_scheme>
